@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @morbie5
+- 🌱 I’m currently learning javascript
